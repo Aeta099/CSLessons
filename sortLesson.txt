@@ -5,7 +5,7 @@ Step 1: Understand the problem
         (example: we need to put in ascending order these following numbers 64, 25, 12, 22, 64.)
 Step 2: Create the model:  
         a. Select the first number.
-        b. Compare it tith the next numbers and find which one is smaller.
+        b. Compare it with the next numbers and find which one is smaller.
         c. Now select the smaller number and compare it with the next. Find wich one is smaller.
         d. Repeat this step until the end of all the numbers. This way will know wich is the smallest number.
         e. Replace the smallest number with the first number of the series.
