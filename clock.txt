@@ -1,0 +1,5 @@
+inputSeconds=3929
+mins=inputSeconds//60
+hours=mins//60
+finalmiins=mins%60
+print("hours" , hours, "minutes" , finalmins)
