@@ -1,0 +1,6 @@
+def SearchNumber(input):
+    age = [21, 33, 66, 5, 2, 99]
+    if input in age:
+        print("The selected age is in the list")
+    else:
+        print("This age is not present in the list")
